@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pinyon+Script&pause=1000&random=false&width=435&lines=%E3%85%A3+Like+me+better+When+I+with+you.+My+name+is+yeondong)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 <!--
