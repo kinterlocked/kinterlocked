@@ -1,6 +1,7 @@
 <br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Readex+Pro&weight=500&size=40&pause=1000&color=3C62FFCD&random=false&width=500&height=60&lines=Hi+there%2C+I'm+YoenDong&center=true&vCenter=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Readex+Pro&weight=500&size=40&pause=1000&color=3C62FFCD&random=false&width=1000&height=80&lines=Hi+there%2C+I'm+YoenDong&center=true&vCenter=true)](https://git.io/typing-svg)
+
 
 
 <br><br><br>
