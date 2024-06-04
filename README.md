@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pinyon+Script&pause=1000&random=false&width=435&lines=%E3%85%A3+Like+me+better+When+I+with+you.+My+name+is+yeondong)](https://git.io/typing-svg)
+<br><br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Readex+Pro&weight=500&size=30&pause=1000&color=3C62FFCD&random=false&width=500&height=60&lines=Hi+there%2C+I'm+YoenDong1&center=true&vCenter=true)](https://git.io/typing-svg)
+
+
+<br><br><br>
 
 ## Hi there 👋
 
