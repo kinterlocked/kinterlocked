@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Readex+Pro&weight=500&size=40&pause=1000&color=3C62FFCD&random=false&width=1000&height=80&lines=Hi+there%2C+I'm+YeonDong&center=true&vCenter=true)](https://git.io/typing-svg)
  
 <br><br><br> 
- 
+   
 
 <div align="center">
   <!-- kinterlocked User Stats -->
@@ -16,7 +16,7 @@
 
 
 <br><br><br>
-
+ 
 
 ## Hi there 👋
 
