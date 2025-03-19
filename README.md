@@ -4,7 +4,6 @@
  
 <br><br><br> 
    
-
 <div align="center">
   <!-- kinterlocked User Stats -->
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=kinterlocked&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width="48%"  />
