@@ -6,6 +6,10 @@
     
 <div align="center">
   <!-- kinterlocked User Stats -->
+  <a href="https://solved.ac/dusehd0525">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dusehd0525">
+        </a>
+        <img src="http://mazandi.herokuapp.com/api?handle=dusehd0525&theme=cold"/>
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=kinterlocked&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width="48%"  />
   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinterlocked&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&text_color=fff&title_color=918FE0&card_width=48%" />
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
